@@ -85,13 +85,6 @@ Focus          ███████░░░ 70%
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SpyderendD&layout=compact&theme=tokyonight" height="165"/>
 </p>
 
----
-
-## 🐍 LIVE ACTIVITY
-
-<p align="center">
-  <img src="https://github.com/USERNAME/USERNAME/blob/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
@@ -111,7 +104,6 @@ Focus          ███████░░░ 70%
 🟩 Minecraft builder
 🎧 Coding + music sessions
 🔥 Build > scroll
-...
 
 ---
 
@@ -130,14 +122,6 @@ RESULT = progres real 🚀
 
 ---
 
-## 👁️ VISITOR TRACK
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SpyderendD&color=00F7FF&style=for-the-badge"/>
-</p>
-
----
-
 ## 📡 CONNECT
 
 <p align="center">
@@ -152,6 +136,3 @@ RESULT = progres real 🚀
 
 > „Nu trebuie să fii expert ca să începi,
 > dar trebuie să începi ca să devii expert.”
-
-
-Spune doar: **„logo”** 😏
