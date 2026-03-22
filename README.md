@@ -1,7 +1,9 @@
 
 # 🕷️ SPYDEREND
 
-![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=250&section=header&text=Învățăm%20Împreună&fontSize=70&animation=fadeIn)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Lora&size=45&pause=1000&color=0070F3&center=true&vCenter=true&width=600&lines=%C3%8Env%C4%83%C5%A3%C4%83m+%C3%8Empreun%C4%83;De+la+elevi+pentru+elevi;Construim+viitorul+Rom%C3%A2niei" alt="Typing SVG" />
+</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=220&section=header&text=SpyderendD&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
