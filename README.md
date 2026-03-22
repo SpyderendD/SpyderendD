@@ -1,6 +1,8 @@
 
 # 🕷️ SPYDEREND
 
+![Header](https://capsule-render.vercel.app/render?type=wave&color=auto&height=250&section=header&text=Învățăm%20Împreună&fontSize=70&animation=fadeIn)
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0f2027,100:00F7FF&height=220&section=header&text=SpyderendD&fontSize=45&fontColor=00F7FF&animation=fadeIn&fontAlignY=35"/>
 </p>
@@ -123,7 +125,7 @@ RESULT = progres real 🚀
 ---
 
 ## 📡 CONNECT
-
+[YouTube](https://youtube.com/@Spyderend_?sub_confirmation=1) | [TikTok](https://www.tiktok.com/@spyderend3) | [Instagram](https://instagram.com/spyder.end)
 <p align="center">
   <a href="mailto:spyderend0@gmail.com">
     <img src="https://img.shields.io/badge/CONTACT-ME-red?style=for-the-badge&logo=gmail"/>
