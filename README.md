@@ -18,11 +18,9 @@
 ## 🧠 SYSTEM CORE
 
 ```bash id="0q5a3u"
-> USER: Mera Alin David 
-> CLASS: 9th Grade  
+> USER: Mera Alin David  
 > STATUS: FOCUSED  
 > MODE: BEAST MODE ACTIVATED 🧠🔥  
-> TARGET: BAC + TOP DEV + 🔥  
 ```
 
 ---
@@ -30,7 +28,7 @@
 ## ⚡ WHO AM I
 
 💻 Developer în formare
-🎓 Elev clasa a 9-a cu obiective...multe
+🎓 Elev clasa a 10-a cu obiective...multe
 🚀 Construiesc proiecte care doresc ajute
 🎮 Gaming + learning + ... = stilul meu
 
@@ -63,7 +61,7 @@
 🔐 **Feauters**
 ➡️ Conturi + autentificare
 ➡️ Sistem XP + level 🏆
-➡️ UI modern + experiență clean
+➡️ UI modern + experiență curată
 
 ---
 
